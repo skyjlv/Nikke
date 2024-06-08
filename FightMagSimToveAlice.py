@@ -1,3 +1,13 @@
+'''
+Made by chat
+command line args
+    -ma <tove ammo ammo (actual in battle, not ammo% from OL)>
+    -ts1 <tove skill 1 level>
+    -as2 <alice skill 2 level>
+
+example: -ma 111 -ts1 9 -as2 10
+'''
+
 import argparse
 import random
 import math
